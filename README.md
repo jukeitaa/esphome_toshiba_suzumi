@@ -4,6 +4,8 @@ An ESPHome external component that lets an ESP module replace the optional Wi-Fi
 
 ## About this fork
 
+This is just simple fork to make compiling working for [dennisvo/esphome_toshiba_suzumi](https://github.com/dennisvo/esphome_toshiba_suzumi). Only single small change made, all credits to original owners. Rest of the text is what [dennisvo] wrote.
+
 This repository is a fork of [pedobry/esphome_toshiba_suzumi](https://github.com/pedobry/esphome_toshiba_suzumi). All credit for the original protocol reverse-engineering and component architecture goes to [pedobry](https://github.com/pedobry) and prior contributors.
 
 We forked it to focus on modern ESPHome (2026.9+) on ESP32 targets — in particular the ESP32-C6 — and to add a small number of fixes and cleanups on top of the upstream code. The functional changes are:
